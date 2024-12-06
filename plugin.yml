@@ -1,0 +1,12 @@
+name: PDGHGladiadorC
+main: me.mchiappinam.pdghgladiador.Main
+version: 1.0
+depends: [SimpleClans,Vault,Legendchat]
+website: http://pdgh.com.br/
+commands:
+   gladiador:
+      description: Info.
+      usage: /<command> ?
+   gladiadores:
+      description: Info.
+      usage: /<command>
